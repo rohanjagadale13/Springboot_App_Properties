@@ -1,0 +1,9 @@
+
+server:
+  port: 9002
+
+
+app:
+  messages:
+    greetMsg: Good Morning
+    welcomeMsg: Welcome to Ashok IT..!
